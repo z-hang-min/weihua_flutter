@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>btn_number_mobilephone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="btn_number_mobilephone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="22" height="22"></rect>
+            <rect id="矩形" stroke="#FFFFFF" stroke-width="2" x="5.5" y="1.83333333" width="11" height="17.875" rx="1.5"></rect>
+            <rect id="合并形状" fill="#FFFFFF" x="5.5" y="16.1333333" width="11" height="3.68125"></rect>
+            <rect id="矩形" fill="#3A99FA" x="9.16666667" y="18.0270833" width="3.66666667" height="1.5" rx="0.75"></rect>
+        </g>
+    </g>
+</svg>

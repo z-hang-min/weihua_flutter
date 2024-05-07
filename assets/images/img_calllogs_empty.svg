@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>pic_无通话记录</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="4.74882182%" y1="11.031784%" x2="91.0100953%" y2="109.52049%" id="linearGradient-1">
+            <stop stop-color="#AEB5C0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#D1D6DD" offset="0%"></stop>
+            <stop stop-color="#A5ACB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="14.3195419%" x2="50%" y2="97.5333593%" id="linearGradient-3">
+            <stop stop-color="#C3C8CF" offset="0%"></stop>
+            <stop stop-color="#EFF1F1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pic_无通话记录" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="160" height="160"></rect>
+            <g id="分组-5" transform="translate(27.000000, 31.000000)">
+                <path d="M69.3818614,79.0061016 C69.4906722,88.0243432 74.7957443,91.2859479 85.2970775,88.7909155 C101.049077,85.048367 102.775361,85.7360515 104.515246,88.7909155 C106.255132,91.8457796 98.7397997,103.360173 104.515246,103.935693 C110.290693,104.511214 116.293552,91.535514 119.077947,95.3786629" id="路径-2" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round" transform="translate(94.229904, 91.480214) rotate(-15.000000) translate(-94.229904, -91.480214) "></path>
+                <g id="分组" transform="translate(44.284610, 52.703194) rotate(-300.000000) translate(-44.284610, -52.703194) translate(-2.715390, 28.703194)">
+                    <path d="M14,36.424192 L28.1633628,22 C33.4213917,25.694062 37.5816814,28.3016953 46,28.3016953 C54.4183186,28.3016953 58.5786083,25.694062 63.8366372,22 L78,36.424192 L46,40 L14,36.424192 Z" id="路径" fill="url(#linearGradient-2)"></path>
+                    <path d="M65.2380244,29.2889527 C62.8690343,23.8266471 61.9269873,19.1364111 62.4118834,15.2182447 L90.7888181,10.925364 C91.7475217,21.3834096 88.5276834,31.1586033 80.7430028,36.8117699 C69.065982,45.2915197 56.6705345,47.2814062 46,47.2814062 C35.3294655,47.2814062 22.934018,45.2915197 11.2569972,36.8117699 C3.47231664,31.1586033 0.0593281794,23.1029973 1.01803181,12.6449517 L29.8845143,12.0021477 C30.3823261,16.0246784 29.2890335,21.8064012 26.6046363,29.3473164 L26.6046377,29.3473169 C26.2887073,30.2348175 26.6349465,31.2224656 27.4358771,31.718429 C33.6239181,35.5502738 39.811959,37.4661962 46,37.4661962 C52.1504906,37.4661962 58.3009812,35.5734557 64.4514717,31.7879748 L64.4514681,31.7879689 C65.2986922,31.2665225 65.633858,30.201647 65.2380244,29.2889527 Z" id="路径" fill="url(#linearGradient-3)"></path>
+                    <ellipse id="椭圆形" fill="#E1E4E6" cx="15.5" cy="13" rx="14.5" ry="10"></ellipse>
+                    <ellipse id="椭圆形" fill="#AEB4BF" cx="15.5" cy="12.5" rx="12.5" ry="8.5"></ellipse>
+                    <ellipse id="椭圆形" fill="#FFFFFF" cx="15.5" cy="12.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy" fill="#FFFFFF" cx="21.5" cy="10.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-2" fill="#FFFFFF" cx="19.5" cy="15.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-4" fill="#FFFFFF" cx="12.5" cy="16.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-5" fill="#FFFFFF" cx="9.5" cy="12.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-6" fill="#FFFFFF" cx="11.5" cy="8.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-7" fill="#FFFFFF" cx="16.5" cy="7.25214775" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形" fill="#D9DCE0" transform="translate(76.603956, 13.489074) scale(-1, 1) rotate(15.000000) translate(-76.603956, -13.489074) " cx="76.6039558" cy="13.4890738" rx="14.5" ry="9.5"></ellipse>
+                    <ellipse id="椭圆形" fill="#B6BCC6" transform="translate(76.603749, 12.987261) scale(-1, 1) rotate(13.000000) translate(-76.603749, -12.987261) " cx="76.6037493" cy="12.9872612" rx="12.5" ry="8"></ellipse>
+                    <ellipse id="椭圆形" fill="#FFFFFF" cx="76.3276844" cy="12.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-8" fill="#FFFFFF" cx="82.3276844" cy="10.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-9" fill="#FFFFFF" cx="77.3276844" cy="7.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-10" fill="#FFFFFF" cx="72.3276844" cy="9.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-11" fill="#FFFFFF" cx="70.3276844" cy="14.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-12" fill="#FFFFFF" cx="74.3276844" cy="17.25" rx="1.5" ry="1.25"></ellipse>
+                    <ellipse id="椭圆形-copy-13" fill="#FFFFFF" cx="80.3276844" cy="15.25" rx="1.5" ry="1.25"></ellipse>
+                </g>
+                <ellipse id="椭圆形" fill="#A5ACB9" opacity="0.1" cx="53" cy="114" rx="30" ry="4"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

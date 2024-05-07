@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="2-11_优化" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="使用说明" transform="translate(-66.000000, -309.000000)">
+            <g id="编组-4" transform="translate(10.000000, 292.000000)">
+                <g id="编组-3" transform="translate(44.000000, 17.000000)">
+                    <g id="icon_instructions_callcenter" transform="translate(12.000000, 0.000000)">
+                        <g>
+                            <circle id="椭圆形" fill-opacity="0.1" fill="#0F88FF" cx="29" cy="29" r="29"></circle>
+                            <g id="分组" transform="translate(17.000000, 17.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <path d="M14.6163281,13.2144352 L14.2031779,11.3982121 C14.1053778,10.9682797 14.3583824,10.536411 14.7765863,10.4194269 L19.420499,9.120385 C19.7393834,9.03118346 20.0795129,9.14855832 20.2792681,9.41673656 C20.9931647,10.3751671 21.2688411,11.582302 21.1062973,13.038141 C20.5297843,16.6423783 15.2955729,19.0909091 9.48484848,19.0909091 C3.67412407,19.0909091 -1.56008732,16.6423783 -2.13660035,13.038141 C-2.29914416,11.582302 -2.02346776,10.3751671 -1.30957115,9.41673656 C-1.10981589,9.14855832 -0.769686407,9.03118346 -0.450802015,9.120385 L4.19311068,10.4194269 C4.61131453,10.536411 4.86431913,10.9682797 4.76651912,11.3982121 L4.35336888,13.2144352 C4.66227558,14.6639655 6.91910868,15.8000837 9.48484848,15.8000837 C12.0505883,15.8000837 14.3074214,14.6639655 14.6163281,13.2144352 Z" id="路径" fill="#0F88FF" mask="url(#mask-2)" transform="translate(9.484848, 14.090909) rotate(-315.000000) translate(-9.484848, -14.090909) "></path>
+                                <g id="分组-51-copy" mask="url(#mask-2)" stroke="#0F88FF" stroke-linecap="round" stroke-width="2">
+                                    <g transform="translate(13.090909, 2.727273)">
+                                        <path d="M8.18181818,8.18181818 C8.18181818,3.66312477 4.51869341,0 0,0" id="路径"></path>
+                                        <path d="M3.27272727,8.18181818 C3.27272727,6.37434082 1.80747736,4.90909091 0,4.90909091" id="路径-copy-2"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

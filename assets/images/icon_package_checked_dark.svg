@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="325px" height="151px" viewBox="0 0 325 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>pic_选中</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pic_选中" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.6">
+        <path d="M324.5,116.477578 C321.69675,116.224964 319.5,113.869021 319.5,111 C319.5,108.130979 321.69675,105.775036 324.5,105.522422 L324.5,6 C324.5,2.96243388 322.037566,0.5 319,0.5 L6,0.5 C2.96243388,0.5 0.5,2.96243388 0.5,6 L0.5,105.522422 C3.30325001,105.775036 5.5,108.130979 5.5,111 C5.5,113.869021 3.30325001,116.224964 0.5,116.477578 L0.5,145 C0.5,148.037566 2.96243388,150.5 6,150.5 L319,150.5 C322.037566,150.5 324.5,148.037566 324.5,145 L324.5,116.477578 Z" stroke="#EE4452" fill="#1A1A1A"></path>
+    </g>
+</svg>

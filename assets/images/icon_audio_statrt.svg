@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_audition</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_audition" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="椭圆形" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+            <path d="M8.3047002,5.5364668 L12.2519246,8.16794971 C12.7114532,8.47430216 12.8356271,9.09517151 12.5292747,9.5547002 C12.4560398,9.66455248 12.3617768,9.75881544 12.2519246,9.83205029 L8.3047002,12.4635332 C7.84517151,12.7698857 7.22430216,12.6457118 6.91794971,12.1861831 C6.80843803,12.0219156 6.75,11.8289079 6.75,11.6314829 L6.75,6.36851709 C6.75,5.81623234 7.19771525,5.36851709 7.75,5.36851709 C7.94742499,5.36851709 8.14043268,5.42695512 8.3047002,5.5364668 Z" id="矩形" fill="#19BA6C"></path>
+        </g>
+    </g>
+</svg>

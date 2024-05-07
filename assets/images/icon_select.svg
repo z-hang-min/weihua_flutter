@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_select</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_select" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形">
+            <rect x="0" y="0" width="20" height="20"></rect>
+            <path d="M6.37832797,7 L13.6217756,7 C14.1740603,7 14.6217756,7.44771525 14.6217756,8 C14.6217756,8.24464042 14.5320974,8.48079425 14.3697125,8.66376984 L10.7479887,12.7447339 C10.3813987,13.157808 9.74935607,13.1954909 9.33628193,12.8289009 C9.30657992,12.8025413 9.27847446,12.7744359 9.25211488,12.7447339 L5.63039108,8.66376984 C5.26380111,8.25069571 5.30148398,7.61865307 5.71455812,7.25206311 C5.89753372,7.08967818 6.13368755,7 6.37832797,7 Z" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

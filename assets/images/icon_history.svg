@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <g id="云通知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人号_云通知" transform="translate(-15.000000, -444.000000)">
+            <g id="分组-copy-3" transform="translate(0.000000, 420.000000)">
+                <g id="icon_历史记录" transform="translate(15.000000, 24.000000)">
+                    <g>
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                        <g id="icon_记录" fill-rule="nonzero">
+                            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                            <path d="M10.5,1 C15.7467051,1 20,5.25329488 20,10.5 C20,15.7467051 15.7467051,20 10.5,20 C5.25329488,20 1,15.7467051 1,10.5 C1,5.25329488 5.25329488,1 10.5,1 Z" id="路径" fill="#333333"></path>
+                            <path d="M10.5,3 C7.82050816,3 5.34455548,4.42949188 4.00480949,6.74999997 C2.6650635,9.07050806 2.6650635,11.9294919 4.00480949,14.25 C5.34455548,16.5705081 7.82050816,18 10.5,18 C14.6421357,18 18,14.6421356 18,10.5 C18,6.35786442 14.6421357,3 10.5,3 Z" id="路径" fill="#FFFFFF"></path>
+                            <polygon id="路径" fill="#333333" points="11.0428571 6.42857143 11.0428571 9.92457143 13.7395 9.92457143 13.7395 11.7662143 9.14285714 11.7662143 9.14285714 6.42857143"></polygon>
+                        </g>
+                        <rect id="矩形" fill="#0F88FF" transform="translate(10.000000, 9.000000) rotate(90.000000) translate(-10.000000, -9.000000) " x="7" y="8" width="6" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

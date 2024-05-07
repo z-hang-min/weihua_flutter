@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <g id="云通知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人号_发送通知_添加" transform="translate(-292.000000, -696.000000)">
+            <g id="编组" transform="translate(10.000000, 499.000000)">
+                <g id="编组-3" transform="translate(0.000000, 179.000000)">
+                    <g id="icon_contacts" transform="translate(282.000000, 18.000000)">
+                        <g>
+                            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                            <g id="分组" transform="translate(2.000000, 2.000000)" stroke="#0F88FF">
+                                <path d="M2,3.9982812 L2,2 C2,0.8954305 2.8954305,0 4,0 L18,0 C19.1045695,0 20,0.8954305 20,2 L20,18 C20,19.1045695 19.1045695,20 18,20 L4,20 C2.8954305,20 2,19.1045695 2,18 L2,15.9985789" id="形状" stroke-width="1.5" stroke-linecap="round"></path>
+                                <rect id="矩形" fill="#D8D8D8" x="0.5" y="6.5" width="2.5" height="1" rx="0.5"></rect>
+                                <rect id="矩形-copy-4" fill="#D8D8D8" x="0.5" y="12.5" width="2.5" height="1" rx="0.5"></rect>
+                                <rect id="矩形-copy-2" fill="#D8D8D8" x="0.5" y="9.5" width="2.5" height="1" rx="0.5"></rect>
+                                <circle id="椭圆形" stroke-width="1.5" cx="11" cy="8" r="3"></circle>
+                                <path d="M16,16 C16,13.2385763 13.7614237,11 11,11 C8.23857625,11 6,13.2385763 6,16" id="路径" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <g id="云通知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人号_新增/编辑模板" transform="translate(-29.000000, -358.000000)">
+            <g id="编组" transform="translate(10.000000, 209.000000)">
+                <g id="分组-2" transform="translate(15.000000, 146.000000)">
+                    <g id="icon_suspend" transform="translate(4.000000, 4.000000)">
+                        <g>
+                            <g>
+                                <circle id="椭圆形" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+                                <rect id="矩形" fill="#19BA6C" x="6.75" y="5.85" width="1.6875" height="6.3" rx="0.75"></rect>
+                                <rect id="矩形-copy-2" fill="#19BA6C" x="9.9" y="5.85" width="1.6875" height="6.3" rx="0.75"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

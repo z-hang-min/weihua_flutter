@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>sign_unselected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sign_unselected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sign_selected" stroke="#E2E2E2">
+            <g id="椭圆形">
+                <circle cx="6" cy="6" r="5.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

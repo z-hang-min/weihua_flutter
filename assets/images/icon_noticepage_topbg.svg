@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="44px" viewBox="0 0 375 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="156.479167%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0F88FF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="云通知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人号_云通知" transform="translate(0.000000, -98.000000)" fill="url(#linearGradient-1)">
+            <g id="编组-2" transform="translate(0.000000, 98.000000)">
+                <g id="bg">
+                    <rect x="0" y="0" width="375" height="44"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

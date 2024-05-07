@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_云通知</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_云通知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" fill="#1DBB99" x="0" y="0" width="40" height="40" rx="20"></rect>
+            <g id="分组-2" transform="translate(10.000000, 8.000000)" fill="#FFFFFF">
+                <path d="M10,2 C14.418278,2 18,5.581722 18,10 L18,20 L2,20 L2,10 C2,5.581722 5.581722,2 10,2 Z M16,12 C16,11.4477153 15.5522847,11 15,11 C14.4477153,11 14,11.4477153 14,12 L14,16 C14,16.5522847 14.4477153,17 15,17 C15.5522847,17 16,16.5522847 16,16 L16,12 Z" id="合并形状"></path>
+                <rect id="矩形-copy-2" transform="translate(10.000000, 2.000000) rotate(-270.000000) translate(-10.000000, -2.000000) " x="8" y="0" width="4" height="4" rx="2"></rect>
+                <rect id="矩形" x="0" y="19" width="20" height="2" rx="1"></rect>
+                <path d="M7,22 L12.6585886,22 C12.2467522,23.1651924 11.1355131,24 9.82929429,24 C8.52307547,24 7.41183641,23.1651924 7,22 Z" id="合并形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

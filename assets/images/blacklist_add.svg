@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>manage_add</title>
+    <desc>Created with Sketch.</desc>
+    <g id="manage_add" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+            <circle id="椭圆形" stroke="#FFFFFF" stroke-width="1.5" cx="10" cy="10" r="7.25"></circle>
+            <path d="M9.25,9.25 L9.25,7.75 C9.25,7.33578644 9.58578644,7 10,7 C10.4142136,7 10.75,7.33578644 10.75,7.75 L10.75,9.25 L12.25,9.25 C12.6642136,9.25 13,9.58578644 13,10 C13,10.4142136 12.6642136,10.75 12.25,10.75 L10.75,10.75 L10.75,12.25 C10.75,12.6642136 10.4142136,13 10,13 C9.58578644,13 9.25,12.6642136 9.25,12.25 L9.25,10.75 L7.75,10.75 C7.33578644,10.75 7,10.4142136 7,10 C7,9.58578644 7.33578644,9.25 7.75,9.25 L9.25,9.25 Z" id="合并形状" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

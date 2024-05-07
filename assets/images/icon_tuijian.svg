@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="26px" viewBox="0 0 62 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.6666667%" y1="44.7970864%" x2="70.0677083%" y2="53.2841001%" id="linearGradient-1">
+            <stop stop-color="#FF9E89" offset="0%"></stop>
+            <stop stop-color="#FF4D47" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="云通知" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人号_次数充值提醒" transform="translate(-243.000000, -306.000000)">
+            <g id="编组-6" transform="translate(10.000000, 258.000000)">
+                <g id="编组-2" transform="translate(233.000000, 48.000000)">
+                    <g id="icon_推荐">
+                        <g>
+                            <polygon id="路径-3" fill="#FF4D47" points="0 20 5 26 5 15.5"></polygon>
+                            <path d="M6,0 L62,0 L62,0 L62,14 C62,17.3137085 59.3137085,20 56,20 L0,20 L0,20 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                            <text id="强烈推荐" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#FFFFFF">
+                                <tspan x="6" y="15">强烈推荐</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

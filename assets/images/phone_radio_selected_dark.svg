@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>phone_radio_selected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="phone_radio_selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="椭圆形" fill="#0F88FF" cx="10" cy="10" r="10"></circle>
+            <polyline id="路径" stroke="#FFFFFF" stroke-width="2" points="5 10.1115369 8.24067709 13.3333333 14.3333333 6.66666667"></polyline>
+        </g>
+    </g>
+</svg>

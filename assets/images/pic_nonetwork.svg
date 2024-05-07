@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>pic_网络不给力</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.1547146%" id="linearGradient-1">
+            <stop stop-color="#EFEFF1" offset="0%"></stop>
+            <stop stop-color="#C0C5CD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#BEC4D0" offset="0%"></stop>
+            <stop stop-color="#8992A3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="5.67393991%" x2="9.9318818%" y2="102.06826%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#969EAD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="28.4747841%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#C3C7CF" offset="0%"></stop>
+            <stop stop-color="#C5C9D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="10.3621116%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#8A93A4" offset="0%"></stop>
+            <stop stop-color="#B4B9C4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pic_网络不给力" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="160" height="160"></rect>
+            <g id="分组-5" transform="translate(51.000000, 39.000000)">
+                <g id="分组-2">
+                    <path d="M6,0 L52,0 C55.3137085,-6.08718376e-16 58,2.6862915 58,6 L58,64 C58,67.3137085 55.3137085,70 52,70 L6,70 C2.6862915,70 4.05812251e-16,67.3137085 0,64 L0,6 C-4.05812251e-16,2.6862915 2.6862915,3.27325364e-15 6,2.66453526e-15 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                    <path d="M40.2,23.6927314 C43.1621796,26.56636 45,30.5707927 45,35 C45,39.4292073 43.1621796,43.43364 40.2,46.3072686 L40.2,52 C40.2,53.1045695 39.3045695,54 38.2,54 L19.8,54 C18.6954305,54 17.8,53.1045695 17.8,52 L17.8,46.3072686 C14.8378204,43.43364 13,39.4292073 13,35 C13,30.5707927 14.8378204,26.56636 17.8,23.6927314 L17.8,18 C17.8,16.8954305 18.6954305,16 19.8,16 L38.2,16 C39.3045695,16 40.2,16.8954305 40.2,18 L40.2,23.6927314 Z" id="路径" fill="#FFFFFF"></path>
+                    <rect id="矩形" fill="url(#linearGradient-2)" x="23" y="29" width="4" height="12" rx="2"></rect>
+                    <rect id="矩形-copy-2" fill="url(#linearGradient-2)" x="31" y="29" width="4" height="12" rx="2"></rect>
+                </g>
+                <g id="分组-3" transform="translate(63.623344, 83.248976) rotate(-345.000000) translate(-63.623344, -83.248976) translate(25.123344, 62.248976)">
+                    <path d="M30,29.5264321 C54.0625788,32.9015181 63.8652364,30.0620093 59.4079726,21.0079058 C52.7220769,7.42675053 47.430112,4.71291919 76.9850253,0" id="路径-4" stroke="url(#linearGradient-3)" stroke-width="2"></path>
+                    <path d="M28.3522427,26.1006408 L29.2527887,26.3579396 C30.8788971,26.822542 32,28.3088217 32,30 C32,31.6911783 30.8788971,33.177458 29.2527887,33.6420604 L28.3522427,33.8993592 C26.7336488,38.6126248 22.2624063,42 17,42 L11,42 L11,18 L17,18 C22.2624063,18 26.7336488,21.3873752 28.3522427,26.1006408 Z" id="合并形状" fill="url(#linearGradient-4)"></path>
+                    <ellipse id="椭圆形" fill="#F3F4F6" cx="11" cy="30" rx="5" ry="12"></ellipse>
+                    <rect id="矩形" fill="url(#linearGradient-5)" x="0" y="24" width="11" height="4" rx="2"></rect>
+                    <rect id="矩形-copy-3" fill="url(#linearGradient-5)" x="0" y="32" width="11" height="4" rx="2"></rect>
+                </g>
+                <ellipse id="椭圆形" fill="#A5ACB9" opacity="0.1" cx="30" cy="106" rx="30" ry="4"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

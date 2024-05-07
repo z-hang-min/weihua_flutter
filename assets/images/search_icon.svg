@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>search_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="search_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+            <g id="分组-2" transform="translate(3.000000, 3.000000)">
+                <circle id="椭圆形" stroke="#999999" stroke-width="1.5" cx="6" cy="6" r="5.25"></circle>
+                <path d="M8.86503878,10.2400388 L12.3650388,10.2400388 C12.7792523,10.2400388 13.1150388,10.5758252 13.1150388,10.9900388 L13.1150388,10.9900388 C13.1150388,11.4042523 12.7792523,11.7400388 12.3650388,11.7400388 L8.86503878,11.7400388 L8.86503878,10.2400388 Z" id="矩形" fill="#999999" transform="translate(10.990039, 10.990039) rotate(-315.000000) translate(-10.990039, -10.990039) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

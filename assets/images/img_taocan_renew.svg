@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="325px" height="100px" viewBox="0 0 325 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-18.0408654%" y1="42.4160503%" x2="100%" y2="54.7337278%" id="linearGradient-1">
+            <stop stop-color="#F6F9FF" offset="0%"></stop>
+            <stop stop-color="#E4EFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="号码续费" transform="translate(-25.000000, -176.000000)" fill="url(#linearGradient-1)">
+            <g id="编组-6" transform="translate(25.000000, 176.000000)">
+                <g id="矩形">
+                    <g id="bg_01">
+                        <rect x="0" y="0" width="325" height="100" rx="6"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

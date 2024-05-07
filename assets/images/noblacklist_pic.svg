@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>pic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.598198574%" x2="50%" y2="96.6898483%" id="linearGradient-1">
+            <stop stop-color="#6BB6FF" offset="0%"></stop>
+            <stop stop-color="#0F88FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F5F8FF" offset="0%"></stop>
+            <stop stop-color="#DCE7FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.0982846%" id="linearGradient-3">
+            <stop stop-color="#64B2FF" offset="0%"></stop>
+            <stop stop-color="#1289FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="pic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="160" height="160"></rect>
+            <g id="分组-2" transform="translate(41.000000, 22.000000)">
+                <ellipse id="椭圆形" fill="#E8EFFF" cx="39" cy="113" rx="30" ry="4"></ellipse>
+                <g id="分组-4">
+                    <path d="M19.8684745,8.1111152 L73.8684745,8.1111152 C79.391322,8.1111152 83.8684745,12.5882677 83.8684745,18.1111152 L83.8684745,84.1111152 C83.8684745,89.6339627 79.391322,94.1111152 73.8684745,94.1111152 L19.8684745,94.1111152 C14.345627,94.1111152 9.86847451,89.6339627 9.86847451,84.1111152 L9.86847451,18.1111152 C9.86847451,12.5882677 14.345627,8.1111152 19.8684745,8.1111152 Z" id="矩形-copy-7" fill="#E8EFFF" transform="translate(46.868475, 51.111115) rotate(-345.000000) translate(-46.868475, -51.111115) "></path>
+                    <path d="M11,10 L65,10 C70.5228475,10 75,14.4771525 75,20 L75,86 C75,91.5228475 70.5228475,96 65,96 L11,96 C5.4771525,96 1,91.5228475 1,86 L1,20 C1,14.4771525 5.4771525,10 11,10 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                    <path d="M11,17 L65,17 C68.3137085,17 71,19.6862915 71,23 L71,86 C71,89.3137085 68.3137085,92 65,92 L11,92 C7.6862915,92 5,89.3137085 5,86 L5,23 C5,19.6862915 7.6862915,17 11,17 Z" id="矩形" fill="#9FC5FC" opacity="0.800000012"></path>
+                    <path d="M11,14 L65,14 C68.3137085,14 71,16.6862915 71,20 L71,83 C71,86.3137085 68.3137085,89 65,89 L11,89 C7.6862915,89 5,86.3137085 5,83 L5,20 C5,16.6862915 7.6862915,14 11,14 Z" id="矩形" fill="url(#linearGradient-2)"></path>
+                    <rect id="矩形" fill="#FFFFFF" x="13" y="20" width="14" height="5" rx="2.5"></rect>
+                    <rect id="矩形-copy-4" fill="#FFFFFF" x="29" y="20" width="6" height="5" rx="2.5"></rect>
+                    <path d="M22.5,41 L24.5,41 C26.4329966,41 28,42.5670034 28,44.5 C28,46.4329966 26.4329966,48 24.5,48 L22.5,48 C20.5670034,48 19,46.4329966 19,44.5 C19,42.5670034 20.5670034,41 22.5,41 Z M35.5,41 L54.5,41 C56.4329966,41 58,42.5670034 58,44.5 C58,46.4329966 56.4329966,48 54.5,48 L35.5,48 C33.5670034,48 32,46.4329966 32,44.5 C32,42.5670034 33.5670034,41 35.5,41 Z M22.5,55 L41.5,55 C43.4329966,55 45,56.5670034 45,58.5 C45,60.4329966 43.4329966,62 41.5,62 L22.5,62 C20.5670034,62 19,60.4329966 19,58.5 C19,56.5670034 20.5670034,55 22.5,55 Z" id="合并形状" fill="#2592FF"></path>
+                </g>
+                <g id="分组-3" transform="translate(50.000000, 62.000000)">
+                    <circle id="椭圆形" fill="url(#linearGradient-3)" cx="17" cy="17" r="17"></circle>
+                    <rect id="矩形" fill="#FFFFFF" x="7" y="15" width="20" height="5" rx="2.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

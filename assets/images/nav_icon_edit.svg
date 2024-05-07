@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>nav_icon_edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="nav_icon_edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+            <path d="M20,10.4285714 L20,11.9830416 L20,17.4285714 C20,18.8487322 18.9766509,20 17.7142857,20 L6.28571429,20 C5.02334914,20 4,18.8487322 4,17.4285714 L4,5.57142857 C4,4.15126779 5.02334914,3 6.28571429,3 L12.0311967,3 L13.2857143,3" id="路径" stroke="#272E3E" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M19.3645285,4 L11.3377898,12.920284" id="路径-2" stroke="#272E3E" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>bg_telephone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="63.3229167%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#406071" stop-opacity="0.595443619" offset="0%"></stop>
+            <stop stop-color="#3C4D5A" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="63.3229167%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#406071" stop-opacity="0.603064904" offset="0%"></stop>
+            <stop stop-color="#3C4D5A" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="bg_telephone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形">
+            <rect fill="#1E262E" x="0" y="0" width="375" height="812"></rect>
+            <rect fill-opacity="0.6" fill="url(#linearGradient-1)" transform="translate(187.500000, 406.000000) scale(-1, 1) translate(-187.500000, -406.000000) " x="0" y="0" width="375" height="812"></rect>
+            <rect fill-opacity="0.6" fill="url(#linearGradient-2)" x="0" y="0" width="375" height="812"></rect>
+        </g>
+    </g>
+</svg>

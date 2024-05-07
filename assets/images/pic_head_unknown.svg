@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>pic_head_unknown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C6CAD2" offset="0%"></stop>
+            <stop stop-color="#AAADB5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.1417088%" id="linearGradient-2">
+            <stop stop-color="#C6CAD2" offset="0%"></stop>
+            <stop stop-color="#ACAFB7" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="72" height="72" rx="36"></rect>
+    </defs>
+    <g id="pic_head_unknown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-6" fill="url(#linearGradient-1)" x="0" y="0" width="80" height="80" rx="40"></rect>
+            <g id="合并形状" transform="translate(4.000000, 4.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                <path d="M22.0538284,54.8150404 C25.6463519,53.4796214 29.0421723,52.5157317 30.0476953,49.7077942 C30.1864262,47.7633063 30.2275317,45.8122323 30.1708404,43.8629383 C29.2310671,43.3666702 25.8258231,39.9720044 25.5485326,37.0894487 C24.7937337,37.0093481 23.5763273,36.2407377 23.2372073,33.1342563 C23.0087296,32.0511174 23.4127619,30.9293522 24.2696392,30.2680767 C21.6967806,19.9075017 25.148097,10.796319 36.8268404,10.5882353 C39.7545761,10.5882353 41.988486,11.4369463 42.8667725,12.990009 C51.4334908,14.1909849 50.8787385,26.3289044 49.6615034,30.2039962 C50.5113586,30.8843178 50.9075123,32.0130251 50.6783494,33.102216 C50.3394008,36.1928554 49.1375802,36.9773078 48.3673668,37.0415663 C48.1053195,39.8757056 44.7002468,43.2545293 43.7450589,43.8150559 C43.6875113,45.7693339 43.7286167,47.72557 43.8683753,49.675754 C45.3180077,53.713968 51.7197271,53.9096969 56.5271972,56.8136169 C60.881849,58.6171167 63.5294118,60.9979667 63.5294118,63.6078431 C63.5294118,69.2389818 51.2040743,73.8039216 36,73.8039216 C20.7959257,73.8039216 8.47058824,69.2389818 8.47058824,63.6078431 C8.47058824,59.8616647 13.9254445,56.5873565 22.0538284,54.8150404 Z" id="路径" fill="#FFFFFF" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

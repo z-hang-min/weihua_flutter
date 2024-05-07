@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>切片</title>
+    <desc>Created with Sketch.</desc>
+    <g id="深色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.6">
+        <g id="分机管理" transform="translate(-329.000000, -469.000000)" stroke="#FFFFFF">
+            <g id="编组">
+                <g id="分组-5" transform="translate(10.000000, 301.000000)">
+                    <g id="分组" transform="translate(0.000000, 134.000000)">
+                        <g id="manage_edit" transform="translate(319.000000, 34.000000)">
+                            <g id="分组-2">
+                                <g transform="translate(1.000000, 0.000000)">
+                                    <rect id="矩形" x="2.72222222" y="17.2777778" width="14.5555556" height="1" rx="0.5"></rect>
+                                    <path d="M3.0039323,6.7955096 L0.656393905,8.82482623 L3.00363821,10.8510652 L16.2868729,10.8510652 C16.4249441,10.8510652 16.5368729,10.7391363 16.5368729,10.6010652 L16.5368729,7.0455096 C16.5368729,6.90743841 16.4249441,6.7955096 16.2868729,6.7955096 L3.0039323,6.7955096 Z" id="矩形" stroke-width="1.5" transform="translate(8.530413, 8.823287) rotate(-45.000000) translate(-8.530413, -8.823287) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
